@@ -1,6 +1,6 @@
 # FPL-python-analysis
 
-Teams this year:
+## Teams this year:
 | Team                    | Last year's rank |
 | ----------------------- | ---------------- |
 | Manchester City         | 1                |
@@ -24,6 +24,12 @@ Teams this year:
 | Watford                 | promoted (2)     |
 | Brentford               | promoted (3)     |
 
+## Number of matches
+38 matches
+Seasons run from August to May with each team playing 38 matches (playing all 19 other teams both home and away). Most games are played on Saturday and Sunday afternoons.
+
+## Rules
+[Here](https://fantasy.premierleague.com/help/rules)
 
 
 
