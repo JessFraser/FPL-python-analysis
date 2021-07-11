@@ -31,6 +31,9 @@ Seasons run from August to May with each team playing 38 matches (playing all 19
 ## Rules
 [Here](https://fantasy.premierleague.com/help/rules)
 
+## API information
+[Here](https://medium.com/@frenzelts/fantasy-premier-league-api-endpoints-a-detailed-guide-acbd5598eb19)
+
 
 
 
